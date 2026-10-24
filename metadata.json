@@ -1,0 +1,6 @@
+{
+  "name": "CineDirector AI",
+  "description": "Universal AI Film Director studio with human-like acting simulation, cinematographic shot lists, script intelligence, and copy-paste AI video prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
